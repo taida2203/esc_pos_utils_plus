@@ -1972,7 +1972,12 @@
         },
         "TECH-V320N": {
             "codePages": {
-                "27": "Vietnam"
+                "27": "Vietnam",
+                "18": "PC852",
+                "71": "WPC1252",
+                "73": "WPC1251",
+                "70": "PC874",
+                "255": "Thai"
             },
             "colors": {
                 "0": "black"
