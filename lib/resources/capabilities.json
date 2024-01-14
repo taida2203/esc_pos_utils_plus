@@ -1970,6 +1970,32 @@
             "description": "ESC/POS Profile for ZiJiang ZJ-5870 Thermal Receipt Printer, which may be branded AGPtEK or Esky, and identifies itself as a POS-58 Thermal Printer on selftest. This profile is suitable for alphanumberic character mode, but is untested on Chinese character mode. (Change modes by holding down feed button during power-on until the mode LED turns off, then release immediately.)\n",
             "vendor": "ZiJiang"
         },
+        "TECH-V320N": {
+            "codePages": {
+                "27": "Vietnam"
+            },
+            "colors": {
+                "0": "black"
+            },
+            "features": {
+                "barcodeA": true,
+                "barcodeB": true,
+                "bitImageColumn": false,
+                "bitImageRaster": true,
+                "graphics": false,
+                "highDensity": true,
+                "paperFullCut": false,
+                "paperPartCut": false,
+                "pdf417Code": true,
+                "pulseBel": false,
+                "pulseStandard": true,
+                "qrCode": true,
+                "starCommands": false
+            },
+            "name": "TECH-V320N",
+            "description": "",
+            "vendor": "XPrinter"
+        },
         "default": {
             "codePages": {
                 "0": "CP437",
